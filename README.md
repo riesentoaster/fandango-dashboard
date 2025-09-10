@@ -1,5 +1,7 @@
 # Fandango Dashboard
 
+![](./dashboard-screenshot.png)
+
 A Smashing dashboard with GitHub Issues integration.
 
 ## Running with Docker
